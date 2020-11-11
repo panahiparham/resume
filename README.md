@@ -3,7 +3,7 @@
 
 _Student of Computer Science based in Tehran, Iran_ <br>
 
-[Email](mailto:panahiparham@gmail.com) / [LinkedIn](https://www.linkedin.com/in/parham-panahi-216941175/) / [GitHub](https://github.com/panahiparham) / phone: +989127391410 / whatsapp: +989127391410
+[Email](mailto:panahiparham@gmail.com) / [GitHub](https://github.com/panahiparham) / phone: +989127391410 / whatsapp: +989127391410
 
 ---
 
