@@ -8,9 +8,9 @@ _Student of Computer Science based in Tehran, Iran_ <br>
 ---
 
 ## Technical Skills
-- ***Python*** _(my favorite languade)_
+- ***Python*** _(my favorite language)_
 - ***C/C++*** 
-- **Machine learning** _with tools such as : numpy, pandas, matplotbib, sklearn, keras, etc._
+- ***Machine learning*** _with tools such as : numpy, pandas, matplotbib, sklearn, keras, etc._
 
 ---
 
