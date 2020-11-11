@@ -28,6 +28,11 @@ _Student of Computer Science based in Tehran, Iran_ <br>
 ## Research Interests
 <p>My main areas of interest are Machine learning and Computer Graphics. I'm actively learning about these two subjects and would like to explore ways to use ML in graphics and game development.</p>
 
+---
+
+## Projects and other activities
+- [Predicting laptop prices based on spec](https://github.com/panahiparham/laptop_price_prediction_digikala)
+
 
 
 
