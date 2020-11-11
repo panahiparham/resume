@@ -23,6 +23,13 @@ _Student of Computer Science based in Tehran, Iran_ <br>
 - **HighSchool Diploma of mathematics** _(2012 - 2016)_  @Alaameh Tabaatabai highschool Abshenaasan branch. _(overall average : 18/20)_
 <br>
 
+---
+
+## About me
+<p>blahblah
+  blahblah
+  gfgff</p>
+
 
 
 
