@@ -8,7 +8,10 @@ _Student of Computer Science based in Tehran, Iran_ <br>
 ---
 
 ## Technical Skills
-- **python** _alongside libraries like numpy, pandas, matplotbib, keras, etc._
+- **Python** _(my favorite languade)_
+- **C/C++** 
+- **Machine learning** _with tools such as : numpy, pandas, matplotbib, sklearn, keras, etc._
+-
 ## Education
 - **B.Sc. Computer Science** _(2016 - Present)_  @Islamic Azad University Central Tehran Branch._(overall average : 19/20)_ <br>
 - **HighSchool Diploma of mathematics** _(2012 - 2016)_  @Alaameh Tabaatabai highschool Abshenaasan branch. _(overall average : 18/20)_
