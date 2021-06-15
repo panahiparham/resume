@@ -9,13 +9,15 @@ _Student of Computer Science based in Tehran, Iran_ <br>
 
 
 ## Research Interests
-<p>My main areas of interest are Machine learning and Computer Graphics. I'm actively learning about these two subjects and would like to explore ways to use ML in graphics and game development.</p> <br/>
+<p>My main areas of interest are Machine learning and Computer Graphics. I'm actively learning about these two subjects and would like to explore ways to use ML in graphics and game development.</p> 
+<p>I am also exploring Computer vision with deep learning, and it's application to biometrics and would like to explore deep learning methods applied to computer graphics such as DLSS</p>
+<br/>
 
 ---
 
 ## Technical Skills
 - **Python** _(my favorite language)_ 
-- **Machine learning** _with tools such as : numpy, pandas, matplotbib, sklearn  etc._
+- **Machine learning** _with tools such as : tensorflow, numpy, pandas, matplotbib, sklearn  etc._
 - **C/C++** <br>
 - **Computer Graphics** _OpenGL api_ 
 - **CEH** 
